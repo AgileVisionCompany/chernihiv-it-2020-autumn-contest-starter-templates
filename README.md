@@ -1,0 +1,1 @@
+# chernihiv-it-2020-autumn-contest-starter-templates
